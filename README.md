@@ -12,16 +12,16 @@ Sound System:
 
 Electronics: 
 1. Hardware Controller (suggestion: Arduíno Uno)
-2. 8. Display (suggestion: OLED 64x128)
+2. Display (suggestion: OLED 64x128)
 3. MIDI CONTROLLER (suggestion: USB HOST Shield)
-4. 2x Step Motors Driver (suggestion: TMC 2209)
+4. 2x - Step Motors Driver (suggestion: TMC 2209)
 
 Mechanics: 
-1. Bearing (suggestion: 608z) 
+1. 2x - Bearing (suggestion: 608z) 
 2. Woofer Step Motor (suggestion: NEMA 17 - 4,2 kgf.cm)
 3. Tweeter Step Motor (suggestion: NEMA 17 - 5,7 kgf.cm)
 
-TOTAL: 10 Items 
+TOTAL: 12 Items 
 
 
 3D Models: 
