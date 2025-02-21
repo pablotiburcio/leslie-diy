@@ -5,6 +5,7 @@ Dimensions: 35cm x 35cm x 70cm
 Weight: 15kg
 
 Items List: 
+
 Sound System:
 1. 200W 10" Woofer (suggestion: JBL 10PW Pro)
 2. 100W Tweeter (suggestion: JBL D250X) 
