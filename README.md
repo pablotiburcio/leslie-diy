@@ -8,7 +8,7 @@ Items List:
 
 Sound System:
 1. 200W 10" Woofer (suggestion: JBL 10PW Pro)
-2. 100W Tweeter (suggestion: JBL D250X) 
+2. 100W Tweeter (suggestion: JBL D250X) - Original: Jensen V21 - 100-4000Hz, 16ohms, 40 Watts RMS
 3. Power Amp (suggestion: TPA3255 600W)
 
 Electronics: 
