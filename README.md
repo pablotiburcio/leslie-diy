@@ -7,7 +7,7 @@ Weight: 15kg
 Items List: 
 
 Sound System:
-1. 200W 10" Woofer (suggestion: JBL 10PW Pro)
+1. 200W 10" Woofer (suggestion: JBL 10PW Pro) 
 2. 100W Tweeter (suggestion: JBL D250X) - Original: Jensen V21 - 100-4000Hz, 16ohms, 40 Watts RMS
 3. Power Amp (suggestion: TPA3255 600W)
 
@@ -18,9 +18,10 @@ Electronics:
 4. 2x - Step Motors Driver (suggestion: TMC 2209)
 
 Mechanics: 
-1. 2x - Bearing (suggestion: 608z) 
-2. Woofer Step Motor (suggestion: NEMA 17 - 4,2 kgf.cm)
-3. Tweeter Step Motor (suggestion: NEMA 17 - 5,7 kgf.cm)
+1. 1x - Bearing (suggestion: 608z) Driver - https://produto.mercadolivre.com.br/MLB-3431430961-rolamento-6007-zz-med-35x62x14-_JM
+2. 2x - Bearing (suggestion: 608z) Woofer Cylinder - https://produto.mercadolivre.com.br/MLB-1932678848-05-pecas-rolamentos-608z-blindagem-em-aco-8x22x7mm-_JM
+3. Woofer Step Motor (suggestion: NEMA 17 - 4,2 kgf.cm)
+4. Tweeter Step Motor (suggestion: NEMA 17 - 5,7 kgf.cm)
 
 TOTAL: 12 Items 
 
@@ -29,6 +30,7 @@ TOTAL: 12 Items
 1. Treble Horn
 2. Woofer Cylinder
 3. 
+
 
 
 Other items: Jacks, Cables, Plywood, Screws, Threaded rod, 
